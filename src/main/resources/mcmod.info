@@ -2,7 +2,7 @@
 {
   "modid": "elytraoverlay",
   "name": "Elytra Overlay",
-  "description": "",
+  "description": "A mod which adds a really cool flight hud when flying an elytra.",
   "version": "1.0",
   "mcversion": "1.12",
   "url": "",
@@ -10,7 +10,9 @@
   "authorList": ["Koenn"],
   "credits": "",
   "logoFile": "",
-  "screenshots": [],
+  "screenshots": [
+    "https://cdn.discordapp.com/attachments/343389546588930079/346241249981890570/unknown.png"
+  ],
   "dependencies": []
 }
 ]
